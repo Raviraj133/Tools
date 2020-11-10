@@ -1,9 +1,9 @@
 <?php
 include("../src/RtcTokenBuilder.php");
 
-$appID = "970CA35de60c44645bbae8a215061b33";
-$appCertificate = "5CFd2fd1755d40ecb72977518be15d3b";
-$channelName = "7d72365eb983485397e3e3f9d460bdda";
+$appID = "da3489a3bf204767b69741d8ec03f65d";
+$appCertificate = "e8cac1059d0f421883217de281ed9f9d";
+$channelName = "VGD";
 $uid = 2882341273;
 $uidStr = "2882341273";
 $role = RtcTokenBuilder::RoleAttendee;
